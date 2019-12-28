@@ -1,5 +1,9 @@
 # 簡易的なLED信号機をコントロールする.
 
+[![](https://img.youtube.com/vi/ZT8Q45xaxX0/0.jpg)](https://www.youtube.com/watch?v=ZT8Q45xaxX0)
+
+https://youtu.be/ZT8Q45xaxX0
+
 
 ### 使い方
 ```
