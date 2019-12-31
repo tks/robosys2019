@@ -14,8 +14,16 @@ https://youtu.be/ZT8Q45xaxX0
 
 https://github.com/ryuichiueda/robosys2019
 
+## 環境
+raspberry pi 3B+
+raspbian (4.19)
+
 
 ## 実行方法
+
+
+LEDと200Ω程度の抵抗を接続する．
+GPIOの配置はmyled.cを参照してください．
 
 ```
 $ make                          #プログラムのコンパイル
