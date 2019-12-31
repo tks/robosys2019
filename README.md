@@ -1,11 +1,22 @@
-# 簡易的なLED信号機をコントロールする.
+千葉工業大学先進工学部の2019年度のロボットシステム学の課題1
+
+デバイスドライバ製作
+
+## 簡易的なLED信号機をコントロールする.
 
 [![](https://img.youtube.com/vi/ZT8Q45xaxX0/0.jpg)](https://www.youtube.com/watch?v=ZT8Q45xaxX0)
 
 https://youtu.be/ZT8Q45xaxX0
+t
+## 参考
+
+課題の製作にあたり，以下の講義スライド上のコードの一部を利用しています．
+
+https://github.com/ryuichiueda/robosys2019
 
 
-### 使い方
+## 実行方法
+
 ```
 $ make                          #プログラムのコンパイル
 $ sudo insmod myled.ko          #コンパイルしたデバイスドライバのインストール 
